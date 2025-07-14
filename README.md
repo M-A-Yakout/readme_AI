@@ -30,7 +30,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/readme-wizard-architect.git
+   git clone https://github.com/M-A-Yakout/readme_AI.git
    ```
 2. Navigate to the project directory:
    ```sh
